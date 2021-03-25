@@ -1,4 +1,5 @@
 ## plesk php not found on command line
+export php path for current session
 ```bash
 export PATH=/opt/plesk/php/7.3/bin/:$PATH
 ```
